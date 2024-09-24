@@ -11,4 +11,4 @@
 | 1 | Исследование рынка российского кинопроката | **Добавить** | python, padnas, matplotlyb, jupyter notebook |
 | 2 | Исследование рынка заведений общественного питания в Москве | **Добавить** | python, pandas, matplotlib, seaborn, plotly.express, folium, json |
 | 3 | Определение текущего уровня лояльности клиентов (NPS) | **Добавить** | python, sql, tableau | 
-| 4 | Анализ убытков приложения Procrastinate Pro+ | **Добавить** | pyhton, pandas, matplotlib |
+| 4 | Анализ убытков приложения Procrastinate Pro+ | Исследование основных  | pyhton, pandas, matplotlib, когортный анализ, юнит-экономика, продуктовые метрики |
